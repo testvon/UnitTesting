@@ -1,0 +1,14 @@
+{
+  "name": "unittesting",
+  "version": "1.0.0",
+  "description": "All about unit testing",
+  "main": "sketch.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "iamvon",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^24.1.0"
+  }
+}
